@@ -21,6 +21,7 @@ public class MainActivity extends AppCompatActivity {
         mediaController.setAnchorView(vid1); //this connects the media controls to vid1
         vid1.setMediaController(mediaController); //officially gives media controller to the video
 
-        vid1.start();
+        vid1.start(); //starts the video
+
     }
 }
