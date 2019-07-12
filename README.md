@@ -1,4 +1,4 @@
-# Video-app
+# :clapper: :octocat: Video App :octocat: :clapper: 
 
 Tic Tac Toe app for two players where the game can be replayed infinite amount of times. 
 
